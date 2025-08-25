@@ -1,0 +1,353 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E3DBD3-BC4A-46A9-8846-5D1CF78054BC}|StudentSemesterManager\\StudentSemesterManager.csproj|c:\\users\\lenovo\\source\\repos\\studentsemestermanager - copy\\studentsemestermanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F5E3DBD3-BC4A-46A9-8846-5D1CF78054BC}|StudentSemesterManager\\StudentSemesterManager.csproj|solutionrelative:studentsemestermanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E3DBD3-BC4A-46A9-8846-5D1CF78054BC}|StudentSemesterManager\\StudentSemesterManager.csproj|c:\\users\\lenovo\\source\\repos\\studentsemestermanager - copy\\studentsemestermanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E3DBD3-BC4A-46A9-8846-5D1CF78054BC}|StudentSemesterManager\\StudentSemesterManager.csproj|solutionrelative:studentsemestermanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E3DBD3-BC4A-46A9-8846-5D1CF78054BC}|StudentSemesterManager\\StudentSemesterManager.csproj|c:\\users\\lenovo\\source\\repos\\studentsemestermanager - copy\\studentsemestermanager\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E3DBD3-BC4A-46A9-8846-5D1CF78054BC}|StudentSemesterManager\\StudentSemesterManager.csproj|solutionrelative:studentsemestermanager\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F799381-5020-4595-868E-FC2CE656E308}|SemesterCore\\SemesterCore.csproj|c:\\users\\lenovo\\source\\repos\\studentsemestermanager - copy\\semestercore\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F799381-5020-4595-868E-FC2CE656E308}|SemesterCore\\SemesterCore.csproj|solutionrelative:semestercore\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F799381-5020-4595-868E-FC2CE656E308}|SemesterCore\\SemesterCore.csproj|c:\\users\\lenovo\\source\\repos\\studentsemestermanager - copy\\semestercore\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F799381-5020-4595-868E-FC2CE656E308}|SemesterCore\\SemesterCore.csproj|solutionrelative:semestercore\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F799381-5020-4595-868E-FC2CE656E308}|SemesterCore\\SemesterCore.csproj|c:\\users\\lenovo\\source\\repos\\studentsemestermanager - copy\\semestercore\\models\\semesterinfos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F799381-5020-4595-868E-FC2CE656E308}|SemesterCore\\SemesterCore.csproj|solutionrelative:semestercore\\models\\semesterinfos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F799381-5020-4595-868E-FC2CE656E308}|SemesterCore\\SemesterCore.csproj|c:\\users\\lenovo\\source\\repos\\studentsemestermanager - copy\\semestercore\\logic\\calculations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F799381-5020-4595-868E-FC2CE656E308}|SemesterCore\\SemesterCore.csproj|solutionrelative:semestercore\\logic\\calculations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F799381-5020-4595-868E-FC2CE656E308}|SemesterCore\\SemesterCore.csproj|c:\\users\\lenovo\\source\\repos\\studentsemestermanager - copy\\semestercore\\models\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F799381-5020-4595-868E-FC2CE656E308}|SemesterCore\\SemesterCore.csproj|solutionrelative:semestercore\\models\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F799381-5020-4595-868E-FC2CE656E308}|SemesterCore\\SemesterCore.csproj|c:\\users\\lenovo\\source\\repos\\studentsemestermanager - copy\\semestercore\\models\\studysession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F799381-5020-4595-868E-FC2CE656E308}|SemesterCore\\SemesterCore.csproj|solutionrelative:semestercore\\models\\studysession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E3DBD3-BC4A-46A9-8846-5D1CF78054BC}|StudentSemesterManager\\StudentSemesterManager.csproj|c:\\users\\lenovo\\source\\repos\\studentsemestermanager - copy\\studentsemestermanager\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F5E3DBD3-BC4A-46A9-8846-5D1CF78054BC}|StudentSemesterManager\\StudentSemesterManager.csproj|solutionrelative:studentsemestermanager\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E3DBD3-BC4A-46A9-8846-5D1CF78054BC}|StudentSemesterManager\\StudentSemesterManager.csproj|c:\\users\\lenovo\\source\\repos\\studentsemestermanager - copy\\studentsemestermanager\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F5E3DBD3-BC4A-46A9-8846-5D1CF78054BC}|StudentSemesterManager\\StudentSemesterManager.csproj|solutionrelative:studentsemestermanager\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E3DBD3-BC4A-46A9-8846-5D1CF78054BC}|StudentSemesterManager\\StudentSemesterManager.csproj|c:\\users\\lenovo\\source\\repos\\studentsemestermanager - copy\\studentsemestermanager\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F5E3DBD3-BC4A-46A9-8846-5D1CF78054BC}|StudentSemesterManager\\StudentSemesterManager.csproj|solutionrelative:studentsemestermanager\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E3DBD3-BC4A-46A9-8846-5D1CF78054BC}|StudentSemesterManager\\StudentSemesterManager.csproj|c:\\users\\lenovo\\source\\repos\\studentsemestermanager - copy\\studentsemestermanager\\loginwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F5E3DBD3-BC4A-46A9-8846-5D1CF78054BC}|StudentSemesterManager\\StudentSemesterManager.csproj|solutionrelative:studentsemestermanager\\loginwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F799381-5020-4595-868E-FC2CE656E308}|SemesterCore\\SemesterCore.csproj|c:\\users\\lenovo\\source\\repos\\studentsemestermanager - copy\\semestercore\\services\\security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F799381-5020-4595-868E-FC2CE656E308}|SemesterCore\\SemesterCore.csproj|solutionrelative:semestercore\\services\\security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E3DBD3-BC4A-46A9-8846-5D1CF78054BC}|StudentSemesterManager\\StudentSemesterManager.csproj|c:\\users\\lenovo\\source\\repos\\studentsemestermanager - copy\\studentsemestermanager\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E3DBD3-BC4A-46A9-8846-5D1CF78054BC}|StudentSemesterManager\\StudentSemesterManager.csproj|solutionrelative:studentsemestermanager\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E3DBD3-BC4A-46A9-8846-5D1CF78054BC}|StudentSemesterManager\\StudentSemesterManager.csproj|c:\\users\\lenovo\\source\\repos\\studentsemestermanager - copy\\studentsemestermanager\\studentsemestermanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F5E3DBD3-BC4A-46A9-8846-5D1CF78054BC}|StudentSemesterManager\\StudentSemesterManager.csproj|solutionrelative:studentsemestermanager\\studentsemestermanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E3DBD3-BC4A-46A9-8846-5D1CF78054BC}|StudentSemesterManager\\StudentSemesterManager.csproj|c:\\users\\lenovo\\source\\repos\\studentsemestermanager - copy\\studentsemestermanager\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E3DBD3-BC4A-46A9-8846-5D1CF78054BC}|StudentSemesterManager\\StudentSemesterManager.csproj|solutionrelative:studentsemestermanager\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager\\SemesterCore\\Migrations\\20250824092052_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F799381-5020-4595-868E-FC2CE656E308}|SemesterCore\\SemesterCore.csproj|c:\\users\\lenovo\\source\\repos\\studentsemestermanager - copy\\semestercore\\semestercore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4F799381-5020-4595-868E-FC2CE656E308}|SemesterCore\\SemesterCore.csproj|solutionrelative:semestercore\\semestercore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager - Copy\\StudentSemesterManager\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "StudentSemesterManager\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager - Copy\\StudentSemesterManager\\MainWindow.xaml.cs",
+              "RelativeToolTip": "StudentSemesterManager\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAowFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:22:14.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager - Copy\\SemesterCore\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SemesterCore\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager - Copy\\SemesterCore\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "SemesterCore\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T17:23:51.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager - Copy\\StudentSemesterManager\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "StudentSemesterManager\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager - Copy\\StudentSemesterManager\\MainWindow.xaml",
+              "RelativeToolTip": "StudentSemesterManager\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-22T18:22:20.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager - Copy\\StudentSemesterManager\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "StudentSemesterManager\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager - Copy\\StudentSemesterManager\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "StudentSemesterManager\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T15:25:38.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager - Copy\\SemesterCore\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SemesterCore\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager - Copy\\SemesterCore\\Models\\User.cs",
+              "RelativeToolTip": "SemesterCore\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:23:51.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SemesterInfos.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager - Copy\\SemesterCore\\Models\\SemesterInfos.cs",
+              "RelativeDocumentMoniker": "SemesterCore\\Models\\SemesterInfos.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager - Copy\\SemesterCore\\Models\\SemesterInfos.cs",
+              "RelativeToolTip": "SemesterCore\\Models\\SemesterInfos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:25:02.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Module.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager - Copy\\SemesterCore\\Models\\Module.cs",
+              "RelativeDocumentMoniker": "SemesterCore\\Models\\Module.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager - Copy\\SemesterCore\\Models\\Module.cs",
+              "RelativeToolTip": "SemesterCore\\Models\\Module.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAASwAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T17:28:24.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudySession.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager - Copy\\SemesterCore\\Models\\StudySession.cs",
+              "RelativeDocumentMoniker": "SemesterCore\\Models\\StudySession.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager - Copy\\SemesterCore\\Models\\StudySession.cs",
+              "RelativeToolTip": "SemesterCore\\Models\\StudySession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:25:44.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Calculations.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager - Copy\\SemesterCore\\Logic\\Calculations.cs",
+              "RelativeDocumentMoniker": "SemesterCore\\Logic\\Calculations.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager - Copy\\SemesterCore\\Logic\\Calculations.cs",
+              "RelativeToolTip": "SemesterCore\\Logic\\Calculations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T14:57:57.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager - Copy\\StudentSemesterManager\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "StudentSemesterManager\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager - Copy\\StudentSemesterManager\\LoginWindow.xaml",
+              "RelativeToolTip": "StudentSemesterManager\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-25T15:03:38.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager - Copy\\StudentSemesterManager\\App.xaml",
+              "RelativeDocumentMoniker": "StudentSemesterManager\\App.xaml",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager - Copy\\StudentSemesterManager\\App.xaml",
+              "RelativeToolTip": "StudentSemesterManager\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-24T12:48:05.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\lenovo\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [Read Only]",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCcAAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T15:35:25.518Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager - Copy\\StudentSemesterManager\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "StudentSemesterManager\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager - Copy\\StudentSemesterManager\\MainWindow.xaml",
+              "RelativeToolTip": "StudentSemesterManager\\MainWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-24T10:15:01.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\lenovo\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs [Read Only]",
+              "ViewState": "AgIAAK4BAAAAAAAAAADwv7UBAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T15:27:57.141Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager - Copy\\StudentSemesterManager\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "StudentSemesterManager\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager - Copy\\StudentSemesterManager\\LoginWindow.xaml",
+              "RelativeToolTip": "StudentSemesterManager\\LoginWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-25T15:03:44.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Security.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager - Copy\\SemesterCore\\Services\\Security.cs",
+              "RelativeDocumentMoniker": "SemesterCore\\Services\\Security.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager - Copy\\SemesterCore\\Services\\Security.cs",
+              "RelativeToolTip": "SemesterCore\\Services\\Security.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T14:55:57.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager - Copy\\StudentSemesterManager\\App.xaml.cs",
+              "RelativeDocumentMoniker": "StudentSemesterManager\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager - Copy\\StudentSemesterManager\\App.xaml.cs",
+              "RelativeToolTip": "StudentSemesterManager\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T22:21:27.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StudentSemesterManager.csproj",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager - Copy\\StudentSemesterManager\\StudentSemesterManager.csproj",
+              "RelativeDocumentMoniker": "StudentSemesterManager\\StudentSemesterManager.csproj",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager - Copy\\StudentSemesterManager\\StudentSemesterManager.csproj",
+              "RelativeToolTip": "StudentSemesterManager\\StudentSemesterManager.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-24T06:26:40.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager - Copy\\StudentSemesterManager\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "StudentSemesterManager\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager - Copy\\StudentSemesterManager\\AssemblyInfo.cs",
+              "RelativeToolTip": "StudentSemesterManager\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T10:14:56.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SemesterCore.csproj",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager - Copy\\SemesterCore\\SemesterCore.csproj",
+              "RelativeDocumentMoniker": "SemesterCore\\SemesterCore.csproj",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager - Copy\\SemesterCore\\SemesterCore.csproj",
+              "RelativeToolTip": "SemesterCore\\SemesterCore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-24T08:55:14.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250824092052_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager\\SemesterCore\\Migrations\\20250824092052_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\StudentSemesterManager\\SemesterCore\\Migrations\\20250824092052_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\StudentSemesterManager\\SemesterCore\\Migrations\\20250824092052_InitialCreate.cs",
+              "RelativeToolTip": "..\\StudentSemesterManager\\SemesterCore\\Migrations\\20250824092052_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T09:20:53.081Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

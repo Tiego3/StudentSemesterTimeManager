@@ -1,0 +1,28 @@
+C:\Users\lenovo\source\repos\StudentSemesterManager\SemesterCore\bin\Debug\net8.0\SemesterCore.deps.json
+C:\Users\lenovo\source\repos\StudentSemesterManager\SemesterCore\bin\Debug\net8.0\SemesterCore.dll
+C:\Users\lenovo\source\repos\StudentSemesterManager\SemesterCore\bin\Debug\net8.0\SemesterCore.pdb
+C:\Users\lenovo\source\repos\StudentSemesterManager\SemesterCore\obj\Debug\net8.0\SemesterCore.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\StudentSemesterManager\SemesterCore\obj\Debug\net8.0\SemesterCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\StudentSemesterManager\SemesterCore\obj\Debug\net8.0\SemesterCore.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\StudentSemesterManager\SemesterCore\obj\Debug\net8.0\SemesterCore.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\StudentSemesterManager\SemesterCore\obj\Debug\net8.0\SemesterCore.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\StudentSemesterManager\SemesterCore\obj\Debug\net8.0\SemesterCore.dll
+C:\Users\lenovo\source\repos\StudentSemesterManager\SemesterCore\obj\Debug\net8.0\refint\SemesterCore.dll
+C:\Users\lenovo\source\repos\StudentSemesterManager\SemesterCore\obj\Debug\net8.0\SemesterCore.pdb
+C:\Users\lenovo\source\repos\StudentSemesterManager\SemesterCore\obj\Debug\net8.0\ref\SemesterCore.dll
+C:\Users\lenovo\source\repos\StudentSemesterManager\SemesterCore\bin\Debug\net8.0\SemesterCore.runtimeconfig.json
+C:\Users\lenovo\source\repos\StudentSemesterManager\SemesterCore\obj\Debug\net8.0\SemesterCore.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\StudentSemesterManager - Copy\SemesterCore\bin\Debug\net8.0\SemesterCore.deps.json
+C:\Users\lenovo\source\repos\StudentSemesterManager - Copy\SemesterCore\bin\Debug\net8.0\SemesterCore.runtimeconfig.json
+C:\Users\lenovo\source\repos\StudentSemesterManager - Copy\SemesterCore\bin\Debug\net8.0\SemesterCore.dll
+C:\Users\lenovo\source\repos\StudentSemesterManager - Copy\SemesterCore\bin\Debug\net8.0\SemesterCore.pdb
+C:\Users\lenovo\source\repos\StudentSemesterManager - Copy\SemesterCore\obj\Debug\net8.0\SemesterCore.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\StudentSemesterManager - Copy\SemesterCore\obj\Debug\net8.0\SemesterCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\StudentSemesterManager - Copy\SemesterCore\obj\Debug\net8.0\SemesterCore.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\StudentSemesterManager - Copy\SemesterCore\obj\Debug\net8.0\SemesterCore.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\StudentSemesterManager - Copy\SemesterCore\obj\Debug\net8.0\SemesterCore.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\StudentSemesterManager - Copy\SemesterCore\obj\Debug\net8.0\SemesterCore.dll
+C:\Users\lenovo\source\repos\StudentSemesterManager - Copy\SemesterCore\obj\Debug\net8.0\refint\SemesterCore.dll
+C:\Users\lenovo\source\repos\StudentSemesterManager - Copy\SemesterCore\obj\Debug\net8.0\SemesterCore.pdb
+C:\Users\lenovo\source\repos\StudentSemesterManager - Copy\SemesterCore\obj\Debug\net8.0\SemesterCore.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\StudentSemesterManager - Copy\SemesterCore\obj\Debug\net8.0\ref\SemesterCore.dll

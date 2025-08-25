@@ -1,0 +1,58 @@
+﻿<Window x:Class="StudentSemesterManager.MainWindow"        
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Module Tracker" Height="564" Width="728">
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="0" Margin="5">
+            <TextBlock Text="Semester Info" FontWeight="Bold"/>
+            <TextBlock Text="Number of Weeks" Margin="0,2"/>
+            <TextBox Name="WeeksBox" Margin="0,5"/>
+            <TextBlock Text="Start Date" Margin="0,2"/>
+            <DatePicker Name="StartDatePicker" Margin="0,5"/>
+            <Button Content="Save Semester Info" Click="SaveSemester_Click" Margin="0,5"/>
+            <TextBlock Text="Add Module" FontWeight="Bold" Margin="0,10,0,0"/>
+            <TextBlock Text="Code" Margin="0,2"/>
+            <TextBox Name="CodeBox" Margin="0,5"/>
+            <TextBlock Text="Name" Margin="0,2"/>
+            <TextBox Name="NameBox" Margin="0,5"/>
+            <TextBlock Text="Credits" Margin="0,2"/>
+            <TextBox Name="CreditsBox" Margin="0,5"/>
+            <TextBlock Text="Class Hours/Week" Margin="0,2"/>
+            <TextBox Name="ClassHoursBox" Margin="0,5"/>
+            <Button Content="Add Module" Click="AddModule_Click" Margin="0,5"/>
+        </StackPanel>
+        <StackPanel Grid.Column="1" Margin="5">
+            <TextBlock Text="Modules" FontWeight="Bold"/>
+            <ListView Name="ModulesList" Height="120">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Code" DisplayMemberBinding="{Binding Code}"/>
+                        <GridViewColumn Header="Name" DisplayMemberBinding="{Binding Name}"/>
+                        <GridViewColumn Header="Self-Study/Week" DisplayMemberBinding="{Binding SelfStudyPerWeek}"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <TextBlock Text="Record Study Time" FontWeight="Bold" Margin="0,10,0,0"/>
+            <TextBlock Text="Module" Margin="0,2"/>
+            <ComboBox Name="ModuleSelect" DisplayMemberPath="Name" Margin="0,5"/>
+            <TextBlock Text="Date" Margin="0,2"/>
+            <DatePicker Name="StudyDatePicker" Margin="0,5"/>
+            <TextBlock Text="Hours" Margin="0,2"/>
+            <TextBox Name="HoursBox" Margin="0,5"/>
+            <Button Content="Record" Click="RecordStudy_Click" Margin="0,5"/>
+            <TextBlock Text="Self-Study Remaining This Week:" FontWeight="Bold" Margin="0,10,0,0"/>
+            <ListView Name="RemainingList" Height="120">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Module" DisplayMemberBinding="{Binding Name}"/>
+                        <GridViewColumn Header="Remaining" DisplayMemberBinding="{Binding RemainingHours}"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </StackPanel>
+    </Grid>
+</Window>

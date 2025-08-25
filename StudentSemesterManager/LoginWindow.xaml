@@ -1,0 +1,18 @@
+﻿<Window x:Class="StudentSemesterManager.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Login/Register" Height="220" Width="300">
+    <Grid Margin="10">
+        <StackPanel>
+            <TextBlock Text="Username" Margin="0,0,0,2"/>
+            <TextBox Name="UsernameBox" Margin="0,0,0,10"/>
+            <TextBlock Text="Password" Margin="0,0,0,2"/>
+            <PasswordBox Name="PasswordBox" Margin="0,0,0,10"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Name="LoginBtn" Content="Login" Width="100" Margin="0,0,10,0" Click="LoginBtn_Click"/>
+                <Button Name="RegisterBtn" Content="Register" Width="100" Click="RegisterBtn_Click"/>
+            </StackPanel>
+            <TextBlock Name="MessageBlock" Foreground="Red"/>
+        </StackPanel>
+    </Grid>
+</Window>
